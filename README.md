@@ -1,2 +1,11 @@
 # today
-i'm trying to make repository.
+
+i'm trying to make repository..
+
+# teacher
+
+shradha Khapra
+
+# Student
+
+Pawan
